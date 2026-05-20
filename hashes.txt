@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Shadow Romance
+
+This log tracks the cryptographic history and versioning for the song **Shadow Romance** (shadow-romance).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-20T20:09:22.421661 | `v1` | `f030507b219fe997517b857de6a8f7bb9b75ac8efd0c40113532dcf2256f04a6` | `d3beba11b834900dc53a4f2a3898140ee0758ba34c7808f27d9415d73fd6f525` | `2026-05-20_shadow-romance-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

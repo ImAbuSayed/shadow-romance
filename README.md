@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/shadow-romance/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Shadow Romance](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shadow-romance/) |
+| **Get License** | [License this song: Shadow Romance](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shadow-romance/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `f030507b219fe997517b857de6a8f7bb9b75ac8efd0c40113532dcf2256f04a6` |
 | **Timestamp** | May 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
