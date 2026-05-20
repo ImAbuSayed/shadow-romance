@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/shadow-romance/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Shadow Romance](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shadow-romance/) |
+| **Get License** | [Request Licensing for Shadow Romance](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shadow-romance/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Akhiyan ch nasha tera lagda ae deep
+> Takda main rehnda haan chad-di na sleep
+> Parchhawan ban ke main rehnda haan close
+> Dil mera karda ae shadow pose
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
